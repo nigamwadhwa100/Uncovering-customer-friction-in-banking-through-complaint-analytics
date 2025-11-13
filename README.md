@@ -48,27 +48,22 @@ Banks receive thousands of customer complaints across multiple channels. The dat
 ### Project Structure
 | Folder | Description |
 |---------|-------------|
-| `queries/` | All BigQuery SQL scripts used for data cleaning and analysis |
-| `results.md/` | Tableau dashboard images|
-| `schema/` | Data dictionary or schema overview |
+| `SQL-code/` | SQL scripts used for data analysis |
+| `Query-results/` | Tabular results |
 
 ---
 
 ### Key Insights 
-- Number of schools producing players has gone up signficantly over the years  
-- Schools like University of Southern California, Arizona State University, and Stanford University have consistently produced the most players across the years
-- Top 20%ile teams have an minimum average annual spend of $2.5M with the maximum spend crossing $5M
-- Average debut age for a player is 24 years, average retriement age is 29 years, and average career length is ~5 years
-- Only 26 out of 18,589 players started and ended their careers on the same team and played for over a decade
-- Over 50% of the batters on most teams prefer to bat right handed
-- Players heights and weights have consistently gone up over the years with the biggest jump in the decades of 1930 & 1940
-
+- The number of complaints across the years has risen significantly with time which forms the basis of the hypothesis that the usage of Baking products has grown over time.
+- 85% of Complaints are submitted through the web channel
+- Reporting services and debit collection account for >50% of the complaints across products
+- Virtual currency has the highest number of disputes per customer across product categories
+- Most companies respond timely to complaints
+  
 ---
 
 ### Potential Improvements
-- Analyzing percentage of throw styles
-- Deeper career level analytics - do long careers mean higher payband for players across years
-- Salary growth per team for players over the years
+- NLP Analysis on complaint data
 
 ---
 
