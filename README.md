@@ -54,7 +54,7 @@ Banks receive thousands of customer complaints across multiple channels. The dat
 ---
 
 ### Key Insights 
-- The number of complaints across the years has risen significantly with time which forms the basis of the hypothesis that the usage of Baking products has grown over time.
+- The number of complaints across the years has risen significantly with time which forms the basis of the hypothesis that the usage of Banking products has grown over time.
 - 85% of Complaints are submitted through the web channel
 - Reporting services and debit collection account for >50% of the complaints across products
 - Virtual currency has the highest number of disputes per customer across product categories
