@@ -1,7 +1,7 @@
 # Uncovering Customer Friction In Banking Through Complaint Analytics
 
 ### Objective
-This project demonstrates the use of **BigQuery** and **Tableau** in Voice of Customer analysis on a large dataset(3M+ rows).
+This project demonstrates the use of BigQuery and Tableau in Voice of Customer analysis on a large dataset(3M+ rows).
 
 **This is a project meant to demonstrate end-to-end analytics capabilities, from querying large datasets using SQL to building interactive Tableau dashboards that reveal patterns in complaint sources, trends across products, and company response.**
 
@@ -13,7 +13,7 @@ Banks receive thousands of customer complaints across multiple channels. The dat
 ---
 
 ### Tech Stack
-- **Data Source:** [Big Query CFPB Data](https://console.cloud.google.com/bigquery?ws=!1m4!1m3!3m2!1sbigquery-public-data!2scfpb_complaints)
+- **Data Source:** [CFPB Consumer Complaints Database](https://console.cloud.google.com/marketplace/product/cfpb/complaint-database?project=sql-portfolio-475313&login=true&pli=1)
 - **Data Storage Environment:** Google Cloud Storage
 - **Database:** Google BigQuery
 - **Language:** SQL
