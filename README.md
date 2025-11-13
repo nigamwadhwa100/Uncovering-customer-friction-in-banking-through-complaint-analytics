@@ -54,15 +54,15 @@ Banks receive thousands of customer complaints across multiple channels. The dat
 ---
 
 ### Key Insights 
-- The number of complaints across the years has risen significantly with time which forms the basis of the hypothesis that the usage of Banking products has grown over time.
 - 85% of Complaints are submitted through the web channel.
 - Reporting services and debit collection account for >50% of the complaints across products.
+- The number of complaints across the years has risen significantly with time which forms the basis of the hypothesis that the usage of Banking products has grown over time.
 - Virtual currency has the highest number of disputes per customer across product categories.
 - Most companies respond timely to complaints.
   
 ---
 
-### Potential Improvements
+### Potential Feature Improvements
 - NLP Analysis on complaint data
 
 ---
