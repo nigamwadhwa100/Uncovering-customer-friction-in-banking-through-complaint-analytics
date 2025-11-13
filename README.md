@@ -18,49 +18,30 @@ Banks receive thousands of customer complaints across multiple channels. The dat
 - **Database:** Google BigQuery
 - **Language:** SQL
 - **Visualization:** Tableau Public
-- **Documentation:** Notion
 
 ---
 
-### Key Analytical Goals
+### Project Goals
 1. Demonstrate analytical capabilities of Google Cloud Platform to store, connect and analyze data. 
-2. Clean and structure player data from multiple sources and analyze to find key insights.
+2. Analyze a clean, large dataset to find key insights.
+3. Create executive facing dashboards to communicate insights.
 
--- PART I: SCHOOL ANALYSIS
-1. In each decade, how many schools were there that produced players?
-2. What are the names of the top 5 schools that produced the most players?
-3. For each decade, what were the names of the top 3 schools that produced the most players?
-
--- PART II: SALARY ANALYSIS
-1. Find the top 20% of teams in terms of average annual spending
-2. For each team, show the cumulative sum of spending over the years
-3. Return the first year that each team's cumulative spending surpassed 1 billion.
-
--- PART III: PLAYER CAREER ANALYSIS
-1. For each player, calculate their age at their first game, their last game, and their career length (all in years). Sort from longest career to shortest career.
-2. What team did each player play on for their starting and ending years?
-3. How many players started and ended on the same team and also played for over a decade?
-
--- PART IV: PLAYER COMPARISON ANALYSIS
-1. Which players have the same birthday?
-2. Create a summary table that shows for each team, what percent of players bat right, left and both
-3. How have average height and weight at debut game changed over the years, and what's the decade-over-decade difference?
-
+### Questions
+1. Complaints across Products
+2. Top 3 issues by company
+3. Complaints over time (trend analysis)
+4. Complaints submission channel analysis
+5. Timely response rate across companies
+6. Timely vs untimely responses across companies
+7. Consumer dispute rate across products
+   
 ---
 
-### Data Model View
+### Complaints Dashboard
 
-<img width="648" height="497" alt="image" src="https://github.com/user-attachments/assets/0be6b8c9-aa9a-400b-a4cb-86c1ebf25b13" />
+[View my Tableau Dashboard](https://public.tableau.com/app/profile/nigam.wadhwa/viz/ComplaintAnalysisinBanking/Dashboard1)
 
----
-
-### Dashboards 
-
-[View my Tableau Dashboard](https://public.tableau.com/app/profile/nigam.wadhwa/viz/MLBAnalyticsDashboard)
-
-<img width="1412" height="633" alt="image" src="https://github.com/user-attachments/assets/de1537a7-28c3-49f1-9cec-91cee0a895c4" />
-
-<img width="1271" height="691" alt="image" src="https://github.com/user-attachments/assets/5af71469-3d70-4276-8c47-40d274e88ea3" />
+<img width="981" height="884" alt="image" src="https://github.com/user-attachments/assets/ed69bc4f-fba4-44c1-ab72-0086f9982a47" />
 
 ---
 
