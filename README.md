@@ -41,6 +41,7 @@ Banks receive thousands of customer complaints across multiple channels. The dat
 
 [View my Tableau Dashboard](https://public.tableau.com/app/profile/nigam.wadhwa/viz/ComplaintAnalysisinBanking/Dashboard1)
 
+<img width="749" height="665" alt="image" src="https://github.com/user-attachments/assets/f6c6844f-ab22-4208-a673-25759134e3aa" />
 <img width="981" height="884" alt="image" src="https://github.com/user-attachments/assets/ed69bc4f-fba4-44c1-ab72-0086f9982a47" />
 
 ---
